@@ -26,13 +26,14 @@ body:
         - iPhone
         - iPad
         - Android
+        - その他
     validations:
       required: true
   - type: input
     id: version
     attributes:
       label: "【任意】バージョン情報を教えていただけますか？"
-      description: "最下部のAppの欄をコピーしてください。"
+      description: "最下部のApp欄をコピーし貼り付けてください。"
     validations:
       required: false
   - type: textarea
