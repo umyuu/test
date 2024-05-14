@@ -37,7 +37,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: extras
+    id: addition
     attributes:
       label: "問3, 補足情報"
       description: "補足で伝えたい事があれば記入して下さい"
